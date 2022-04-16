@@ -1,3 +1,5 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production" ? "wadt.github.io" : "/",
+    publicPath: process.env.NODE_ENV === "production" ? 
+    "wadt.github.io" : 
+    "/",
 }
